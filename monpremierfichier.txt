@@ -1,3 +1,5 @@
 Lundi 20 novembre 2018.
 
-On se forme à Git
+On se forme à Git.
+
+On a créé un premier commit.
