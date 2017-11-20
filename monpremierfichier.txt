@@ -5,3 +5,6 @@ On se forme à Git.
 On a créé un premier commit.
 
 DUR DUR DUR
+
+C'est bien, c'est sauvegardé.
+
