@@ -1,10 +1,11 @@
 Lundi 20 novembre.
 
-On se forme à Git.
+On se forme Ã  Git.
 
-On a créé un premier commit.
+On a crÃ©Ã© un premier commit.
 
 DUR DUR DUR
 
-C'est bien, c'est sauvegardé.
+C'est bien, c'est sauvegardÃ©.
 
+*
