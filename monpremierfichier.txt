@@ -1,4 +1,4 @@
-Lundi 20 novembre 2018.
+Lundi 20 novembre.
 
 On se forme à Git.
 
