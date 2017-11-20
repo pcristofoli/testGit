@@ -3,5 +3,3 @@ Lundi 20 novembre.
 On se forme à Git.
 
 On a créé un premier commit.
-
-OK OK OK
